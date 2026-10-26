@@ -5,6 +5,9 @@ import re, sys, urllib.request
 
 SRC = "https://iptv-org.github.io/iptv/languages/eng.m3u"
 PAISES = {"us", "uk", "ca", "au", "nz", "ie"}        # países aceitos (sufixo do tvg-id)
+IDIOMAS_OK = {"eng", "por"}                           # o 1o idioma do feed (iptv-org) tem de ser um destes
+IDIOMAS_FORA = {"hin", "pan", "tha", "ind", "ara", "urd", "tur", "rus"}  # feeds que misturam estes idiomas saem
+FEEDS = "https://iptv-org.github.io/api/feeds.json"
 RES_MIN = 720                                         # resolução mínima quando informada no nome
 CATEGORIAS_FORA = {"Religious", "Legislative", "Shop"}
 # Marcas/canais com perfil de TV paga. Só entra quem casar com esta lista.
@@ -23,13 +26,27 @@ MARCAS = re.compile(r"\b(hbo|cinemax|showtime|starz|epix|mgm\+|amc|fx|fxx|fxm|if
 LOCAL = re.compile(r"^(abc|cbs|nbc|fox|cw|pbs|ctv|cbc|citytv)\s+[kw][a-z]{2,3}(-[a-z]{2})?\b|"
                    r"\([a-z ]+\)\s+[kw][a-z]{2,3}(-[a-z]{2})?\s*(\(|$)|^[kw][a-z]{2,3}-tv|mrvtv|puto tv|radio|live \d+|live event|pluto|roku|samsung|stirr|xumo|tubi|lakewood|\bnews (baltimore|boston|chicago|colorado|detroit|miami|minnesota|philly|pittsburgh|sacramento|bay area)", re.I)
 NOME_FORA = re.compile(r"geo-blocked|not 24/7|public access|council|parliament|committee|"
-                       r"hearing room|city of|county|school|university|church", re.I)
+                       r"hearing room|city of|county|school|university|church|"
+                       r"espa[nñ]ol|latin america|latino|deportes|turkiye|romania|hungary|czech", re.I)
 
 def attr(l, k):
     m = re.search(k + r'="([^"]*)"', l)
     return m.group(1) if m else ""
 
+def carregar_idiomas():
+    import json
+    dados = json.loads(urllib.request.urlopen(FEEDS, timeout=120).read().decode("utf8"))
+    return {(e["channel"], e["id"]): e.get("languages") or [] for e in dados}
+
+def idioma_ok(tid, idiomas):
+    canal, _, feed = tid.partition("@")
+    langs = idiomas.get((canal, feed))
+    if not langs:
+        return True            # sem informação: não corta
+    return langs[0] in IDIOMAS_OK and not (set(langs) & IDIOMAS_FORA)
+
 def main():
+    idiomas = carregar_idiomas()
     txt = urllib.request.urlopen(SRC, timeout=60).read().decode("utf8")
     linhas = txt.splitlines()
     out, i = ["#EXTM3U"], 0
@@ -49,7 +66,8 @@ def main():
             res = int(m.group(1)) if m else None
             ok = (pais in PAISES and MARCAS.search(nome) and not LOCAL.search(nome)
                   and not (cats & CATEGORIAS_FORA)
-                  and not NOME_FORA.search(nome) and (res is None or res >= RES_MIN))
+                  and not NOME_FORA.search(nome) and (res is None or res >= RES_MIN)
+                  and idioma_ok(tid, idiomas))
             if ok:
                 out += [inf] + extra + [url]
             i = j
