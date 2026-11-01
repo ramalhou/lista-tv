@@ -27,6 +27,8 @@ https://c.mjh.nz/abc-wa.m3u8
 https://c.mjh.nz/abc-tv-plus.m3u8
 #EXTINF:-1 tvg-id="AMC.us@EastHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/960px-AMC_logo_2019.svg.png" group-title="Movies",AMC (United States) (720p)
 http://23.239.31.26:8989/amc/index.m3u8
+#EXTINF:-1 tvg-id="AnimalPlanet.uk@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/960px-2018_Animal_Planet_logo.svg.png" group-title="Documentary",Animal Planet (United Kingdom)
+http://37.49.224.5/stream/10/index.m3u8
 #EXTINF:-1 tvg-id="AnimalPlanet.us@East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/960px-2018_Animal_Planet_logo.svg.png" group-title="Documentary",Animal Planet (United States) (720p)
 http://23.239.31.26:8989/animalplanet/index.m3u8
 #EXTINF:-1 tvg-id="BBCAmerica.us@East" tvg-logo="https://i.imgur.com/pTiiPz0.png" group-title="Entertainment",BBC America (720p)
@@ -163,6 +165,14 @@ http://stream.cammonitorplus.net/1731/index.m3u8
 http://stream.cammonitorplus.net/1712/index.m3u8
 #EXTINF:-1 tvg-id="CTVLifeChannel.ca@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/CTV_Life_Channel_2019.svg/500px-CTV_Life_Channel_2019.svg.png" group-title="Lifestyle",CTV Life Channel (720p)
 http://185.246.209.113/ANIMALPLANETHD/index.m3u8
+#EXTINF:-1 tvg-id="DiscoveryChannel.uk@UK" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb2401.png" group-title="Entertainment",Discovery Channel (United Kingdom)
+http://37.49.224.5/stream/11/index.m3u8
+#EXTINF:-1 tvg-id="DiscoveryHistory.uk@SD" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb2407.png" group-title="Documentary",Discovery History
+http://37.49.224.5/stream/12/index.m3u8
+#EXTINF:-1 tvg-id="DiscoveryScienceEurope.uk@UK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Discovery_Science_2017_Logo.svg/960px-Discovery_Science_2017_Logo.svg.png" group-title="Science",Discovery Science Europe UK
+http://37.49.224.5/stream/9/index.m3u8
+#EXTINF:-1 tvg-id="DiscoveryTurbo.uk@SD" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb2409.png" group-title="Auto",Discovery Turbo (United Kingdom)
+http://37.49.224.5/stream/13/index.m3u8
 #EXTINF:-1 tvg-id="DiscoveryTurbo.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Discovery_Turbo_2025.svg/1920px-Discovery_Turbo_2025.svg.png" group-title="Auto",Discovery Turbo (United States) (720p)
 http://41.205.93.154/ESPNNEWS/index.m3u8
 #EXTINF:-1 tvg-id="DisneyXD.us@East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/2015_Disney_XD_logo.svg/960px-2015_Disney_XD_logo.svg.png" group-title="Kids",Disney XD (United States) (720p)
@@ -331,6 +341,22 @@ https://skynewsau-live.akamaized.net/hls/live/2002691/skynewsau-extra3/master.m3
 https://distro001-gb-hls1-prd.delivery.skycdp.com/easel_cdn/ngrp:weather_loop.stream_all/playlist.m3u8
 #EXTINF:-1 tvg-id="SkyRacing1.au@SD" tvg-logo="https://i.imgur.com/Hf0EiaW.png" group-title="Sports",Sky Racing 1 (720p)
 https://636ffd31f0e12.streamlock.net/RacingStream1/RacingStream1/playlist.m3u8
+#EXTINF:-1 tvg-id="SkySport1.nz@SD" tvg-logo="https://i.imgur.com/ThJHEuN.png" group-title="Sports",Sky Sport 1
+http://37.49.224.5/stream/44/index.m3u8
+#EXTINF:-1 tvg-id="SkySport2.nz@SD" tvg-logo="https://i.imgur.com/cu8yB69.png" group-title="Sports",Sky Sport 2
+http://37.49.224.5/stream/45/index.m3u8
+#EXTINF:-1 tvg-id="SkySport3.nz@SD" tvg-logo="https://i.imgur.com/XYp3Ua3.png" group-title="Sports",Sky Sport 3
+http://37.49.224.5/stream/46/index.m3u8
+#EXTINF:-1 tvg-id="SkySport4.nz@SD" tvg-logo="https://i.imgur.com/KUXs7SQ.png" group-title="Sports",Sky Sport 4
+http://37.49.224.5/stream/51/index.m3u8
+#EXTINF:-1 tvg-id="SkySport7.nz@SD" tvg-logo="https://i.imgur.com/iuTNWh4.png" group-title="Sports",Sky Sport 7
+http://37.49.224.5/stream/50/index.m3u8
+#EXTINF:-1 tvg-id="SkySport8.nz@SD" tvg-logo="https://i.imgur.com/8YjqlRv.png" group-title="Sports",Sky Sport 8
+http://37.49.224.5/stream/70/index.m3u8
+#EXTINF:-1 tvg-id="SkySport9.nz@SD" tvg-logo="https://i.imgur.com/9fLRHSg.png" group-title="Sports",Sky Sport 9
+http://37.49.224.5/stream/52/index.m3u8
+#EXTINF:-1 tvg-id="SkySportSelect.nz@SD" tvg-logo="https://i.imgur.com/6x2anTA.png" group-title="Sports",Sky Sport Select
+http://37.49.224.5/stream/53/index.m3u8
 #EXTINF:-1 tvg-id="SkySportsF1.uk@SD" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1306.png" http-referrer="https://stmify.com/" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36" group-title="Sports",Sky Sports F1 (720p)
 #EXTVLCOPT:http-referrer=https://stmify.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36
