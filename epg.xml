@@ -48,7 +48,8 @@
 <channel id="History.us@East"><display-name>History (United States) (720p)</display-name></channel>
 <channel id="HLN.us@SD"><display-name>HLN (720p)</display-name></channel>
 <channel id="IFC.us@East"><display-name>IFC (1080p)</display-name></channel>
-<channel id="IONTV.us@East"><display-name>ION TV (720p)</display-name></channel>
+<channel id="IONMystery.us@SD"><display-name>ION Mystery (1080p)</display-name></channel>
+<channel id="IONTV.us@East"><display-name>ION TV (1080p)</display-name></channel>
 <channel id="Lifetime.us@East"><display-name>Lifetime</display-name></channel>
 <channel id="MilitaryHistory.us@SD"><display-name>Military History (720p)</display-name></channel>
 <channel id="MLB.us@SD"><display-name>MLB (720p)</display-name></channel>
@@ -123872,6 +123873,366 @@
     <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
       <value>0</value>
     </rating>
+  </programme>
+<programme channel="IONMystery.us@SD" start="20261119000000 +0000" stop="20261119010000 +0000">
+    <title lang="en">Criminal Minds</title>
+    <sub-title lang="en">Sick and Evil</sub-title>
+    <desc lang="en">The BAU investigates a string of murders taking place in supposedly haunted houses in Lewiston, Maine.</desc>
+  </programme>
+<programme channel="IONMystery.us@SD" start="20261119010000 +0000" stop="20261119020000 +0000">
+    <title lang="en">Criminal Minds</title>
+    <sub-title lang="en">Truth or Dare</sub-title>
+    <desc lang="en">Rossi prepares to marry Krystall; the team investigates a series of fatal shootings following car accidents.</desc>
+  </programme>
+<programme channel="IONMystery.us@SD" start="20261119020000 +0000" stop="20261119030000 +0000">
+    <title lang="en">Criminal Minds</title>
+    <sub-title lang="en">Under the Skin</sub-title>
+    <desc lang="en">The BAU team investigates an unsub with striking similarities to Rossi&apos;s latest obsession, &quot;The Chameleon.&quot;.</desc>
+  </programme>
+<programme channel="IONMystery.us@SD" start="20261119030000 +0000" stop="20261119040000 +0000">
+    <title lang="en">Criminal Minds</title>
+    <sub-title lang="en">Awakenings</sub-title>
+    <desc lang="en">The team searches for Everett Lynch and his daughter; Spencer has a meaningful visit with his mother.</desc>
+  </programme>
+<programme channel="IONMystery.us@SD" start="20261119040000 +0000" stop="20261119050000 +0000">
+    <title lang="en">Criminal Minds</title>
+    <sub-title lang="en">Spectator Slowing</sub-title>
+    <desc lang="en">The BAU team investigates a series of seemingly random fatal explosions throughout Kentucky and Tennessee.</desc>
+  </programme>
+<programme channel="IONMystery.us@SD" start="20261119050000 +0000" stop="20261119060000 +0000">
+    <title lang="en">Criminal Minds</title>
+    <sub-title lang="en">Saturday</sub-title>
+    <desc lang="en">The members of the BAU enjoy a Saturday off in vastly different ways; Rossi and Prentiss help Simmons assemble a new crib; Garcia leads a hacking competition; Dr. Reid strikes up a conversation with a woman named Maxine.</desc>
+  </programme>
+<programme channel="IONMystery.us@SD" start="20261119060000 +0000" stop="20261119070000 +0000">
+    <title lang="en">Criminal Minds</title>
+    <sub-title lang="en">Ghost</sub-title>
+    <desc lang="en">Following a series of fatal shootings, the BAU team travels to Illinois to investigate what appears to be a copycat serial killer.</desc>
+  </programme>
+<programme channel="IONMystery.us@SD" start="20261119070000 +0000" stop="20261119080000 +0000">
+    <title lang="en">FBI: Most Wanted</title>
+    <sub-title lang="en">Decriminalized</sub-title>
+    <desc lang="en">The team gets called to Vermont after a married couple who grow illegal marijuana massacre their employees; Barnes begins to regret not taking any time off to bond with her new baby.</desc>
+  </programme>
+<programme channel="IONMystery.us@SD" start="20261119080000 +0000" stop="20261119090000 +0000">
+    <title lang="en">The Listener</title>
+    <sub-title lang="en">The Illustrated Woman</sub-title>
+    <desc lang="en">Toby&apos;s investigation into the murder of a tattooed woman leads him to believe that corporate espionage and blackmail are behind the killing.</desc>
+  </programme>
+<programme channel="IONMystery.us@SD" start="20261119090000 +0000" stop="20261119100000 +0000">
+    <title lang="en">The Listener</title>
+    <sub-title lang="en">Love&apos;s a Bitch</sub-title>
+    <desc lang="en">The murder of a British spy may be linked to an adulterous dating site.</desc>
+  </programme>
+<programme channel="IONMystery.us@SD" start="20261119100000 +0000" stop="20261119110000 +0000">
+    <title lang="en">The Listener</title>
+    <sub-title lang="en">The Long Con</sub-title>
+    <desc lang="en">Toby and Michelle team up with a con artist to catch a human trafficker.</desc>
+  </programme>
+<programme channel="IONMystery.us@SD" start="20261119110000 +0000" stop="20261119120000 +0000">
+    <title lang="en">Bull</title>
+    <sub-title lang="en">Parental Guidance</sub-title>
+    <desc lang="en">Bull and the TAC team represent a teenage boy raised in complete isolation who goes on trial for murder after engaging in a shootout.</desc>
+  </programme>
+<programme channel="IONMystery.us@SD" start="20261119120000 +0000" stop="20261119130000 +0000">
+    <title lang="en">Bull</title>
+    <sub-title lang="en">Don&apos;t Say a Word</sub-title>
+    <desc lang="en">Bull&apos;s romantic rival, Diana Lindsay, jeopardizes her career when she secretly has Bull come to Texas to assist a couple fighting against her former client for custody of their grandchildren.</desc>
+  </programme>
+<programme channel="IONMystery.us@SD" start="20261119130000 +0000" stop="20261119140000 +0000">
+    <title lang="en">Bull</title>
+    <sub-title lang="en">Bounty</sub-title>
+    <desc lang="en">Danny enlists Bull&apos;s help for the assault trial of her former FBI mentor, a bounty hunter who kidnapped the wrong mark during his first assignment.</desc>
+  </programme>
+<programme channel="IONMystery.us@SD" start="20261119140000 +0000" stop="20261119150000 +0000">
+    <title lang="en">Bull</title>
+    <sub-title lang="en">The Good One</sub-title>
+    <desc lang="en">Bull fears his client&apos;s family ties will negatively impact the jury when he represents the young heir of an infamous crime family; Bull aims to convince his client to sever his trial from his brother&apos;s, which would pit them against each other.</desc>
+  </programme>
+<programme channel="IONMystery.us@SD" start="20261119150000 +0000" stop="20261119160000 +0000">
+    <title lang="en">Bull</title>
+    <sub-title lang="en">When the Rains Came</sub-title>
+    <desc lang="en">Bull helps mount a defense for Taylor&apos;s brother-in-law, a prison guard charged with manslaughter for the drowning deaths of two inmates in the middle of a hurricane; Bull aims to convince the jury that his client tried to prevent a &quot;greater harm.&quot;.</desc>
+  </programme>
+<programme channel="IONMystery.us@SD" start="20261119160000 +0000" stop="20261119170000 +0000">
+    <title lang="en">Bull</title>
+    <sub-title lang="en">Pillar of Salt</sub-title>
+    <desc lang="en">Bull must convince a jury that an alleged murder was actually a tragic accident when TAC represents a woman charged in her 3-year-old stepdaughter&apos;s death; Benny gives Bull some surprising news.</desc>
+  </programme>
+<programme channel="IONMystery.us@SD" start="20261119170000 +0000" stop="20261119180000 +0000">
+    <title lang="en">Bull</title>
+    <sub-title lang="en">Labor Days</sub-title>
+    <desc lang="en">As Bull prepares for fatherhood, his work at TAC suffers without his top attorney Benny, who quit in reaction to Bull&apos;s romantic reconnection to Isabella; the team must mount a defense for a young bartender on trial for involuntary manslaughter.</desc>
+  </programme>
+<programme channel="IONMystery.us@SD" start="20261119180000 +0000" stop="20261119190000 +0000">
+    <title lang="en">Bones</title>
+    <sub-title lang="en">Mayhem on a Cross</sub-title>
+    <desc lang="en">Booth and Brennan look for a killer and a motive when it is discovered that a human skeleton is being used as a prop for a death metal band.</desc>
+  </programme>
+<programme channel="IONMystery.us@SD" start="20261119190000 +0000" stop="20261119200000 +0000">
+    <title lang="en">Bones</title>
+    <sub-title lang="en">The Double Death of the Dearly Departed</sub-title>
+    <desc lang="en">Brennan is suspicious when a Jeffersonian co-worker dies of heart failure; Cam tries to get her newly adopted teenager to stop smoking.</desc>
+  </programme>
+<programme channel="IONMystery.us@SD" start="20261119200000 +0000" stop="20261119210000 +0000">
+    <title lang="en">Bones</title>
+    <sub-title lang="en">The Girl in the Mask</sub-title>
+    <desc lang="en">A friend of Booth&apos;s, Ken Nakamura, asks for help when his sister goes missing in Washington.</desc>
+  </programme>
+<programme channel="IONMystery.us@SD" start="20261119210000 +0000" stop="20261119220000 +0000">
+    <title lang="en">Bones</title>
+    <sub-title lang="en">The Beaver in the Otter</sub-title>
+    <desc lang="en">The body of a fraternity brother is discovered inside a rival school&apos;s mascot uniform; Booth tries to help his brother find a new job.</desc>
+  </programme>
+<programme channel="IONMystery.us@SD" start="20261119220000 +0000" stop="20261119230000 +0000">
+    <title lang="en">Bones</title>
+    <sub-title lang="en">The Critic in the Cabernet</sub-title>
+    <desc lang="en">Brennan asks Booth to be the father of her child; Stewie Griffin (Seth MacFarlane) offers the couple advice.</desc>
+  </programme>
+<programme channel="IONMystery.us@SD" start="20261119230000 +0000" stop="20261120000000 +0000">
+    <title lang="en">Bones</title>
+    <sub-title lang="en">The End in the Beginning</sub-title>
+    <desc lang="en">When a body is discovered at a popular nightclub, everyone is a suspect.</desc>
+  </programme>
+<programme channel="IONMystery.us@SD" start="20261120000000 +0000" stop="20261120010000 +0000">
+    <title lang="en">Bones</title>
+    <sub-title lang="en">Harbingers in the Fountain</sub-title>
+    <desc lang="en">Angela&apos;s psychic, Avalon Harmonia (Cyndi Lauper), alerts Brennan and Booth to the presence of a mass grave beneath a fountain.</desc>
+  </programme>
+<programme channel="IONMystery.us@SD" start="20261120010000 +0000" stop="20261120020000 +0000">
+    <title lang="en">Bones</title>
+    <sub-title lang="en">The Bond in the Boot</sub-title>
+    <desc lang="en">Booth and Brennan investigate when a man is murdered for the undisclosed contents of his briefcase; the team looks for alternate funding for Wendell when he loses his scholarship.</desc>
+  </programme>
+<programme channel="IONMystery.us@SD" start="20261120020000 +0000" stop="20261120030000 +0000">
+    <title lang="en">Bones</title>
+    <sub-title lang="en">The Plain in the Prodigy</sub-title>
+    <desc lang="en">Human remains are found next to a railroad; Cam deals with the stress of being a new parent; Booth tries to keep Cam&apos;s stepdaughter in line.</desc>
+  </programme>
+<programme channel="IONMystery.us@SD" start="20261120030000 +0000" stop="20261120040000 +0000">
+    <title lang="en">Bones</title>
+    <sub-title lang="en">The Beautiful Day in the Neighborhood</sub-title>
+    <desc lang="en">When human remains are found at a neighborhood block party, scandals and suburban politics give many people a motive; Booth&apos;s son tries to find a girlfriend for his father.</desc>
+  </programme>
+<programme channel="IONMystery.us@SD" start="20261120040000 +0000" stop="20261120050000 +0000">
+    <title lang="en">Bones</title>
+    <sub-title lang="en">A Night at the Bones Museum</sub-title>
+    <desc lang="en">Brennan and Booth investigate what appear to be charred human remains on an electrical fence; Brennan goes on a date with Booth&apos;s supervisor; Sweets&apos; girlfriend returns to the Jeffersonian.</desc>
+  </programme>
+<programme channel="IONMystery.us@SD" start="20261120050000 +0000" stop="20261120060000 +0000">
+    <title lang="en">Bones</title>
+    <sub-title lang="en">The Tough Man in the Tender Chicken</sub-title>
+    <desc lang="en">The Jeffersonian team investigates when the mutilated remains of a chicken farmer are found near a river; the case prompts Angela to launch an animal-rights campaign.</desc>
+  </programme>
+<programme channel="IONMystery.us@SD" start="20261120060000 +0000" stop="20261120070000 +0000">
+    <title lang="en">Bones</title>
+    <sub-title lang="en">The Dwarf in the Dirt</sub-title>
+    <desc lang="en">Booth must be recertified for FBI marksmanship, but he is not the accurate shot he was before having brain surgery; Brennan and Booth investigate the death of a little person who was a wrestler.</desc>
+  </programme>
+<programme channel="IONMystery.us@SD" start="20261120070000 +0000" stop="20261120080000 +0000">
+    <title lang="en">FBI: Most Wanted</title>
+    <sub-title lang="en">Covenant</sub-title>
+    <desc lang="en">Charming but formidable Supervisory Special Agent Remy Scott arrives to lead the team as they investigate a series of homicides tied to a forbidden love between a young teen and her older boyfriend.</desc>
+  </programme>
+<programme channel="IONMystery.us@SD" start="20261120080000 +0000" stop="20261120090000 +0000">
+    <title lang="en">Leverage: Redemption</title>
+    <sub-title lang="en">The Jackal Job</sub-title>
+    <desc lang="en">The team picks the brain of a legendary grifter and tries to find the loot from her best con before her abusive guardian does.</desc>
+  </programme>
+<programme channel="IONMystery.us@SD" start="20261120090000 +0000" stop="20261120100000 +0000">
+    <title lang="en">Leverage: Redemption</title>
+    <sub-title lang="en">The Golf Job</sub-title>
+    <desc lang="en">An old friend visits, sparking a self-doubting Harry to uncover an unlikely client on the links at his exclusive golf club.</desc>
+  </programme>
+<programme channel="IONMystery.us@SD" start="20261120100000 +0000" stop="20261120110000 +0000">
+    <title lang="en">Leverage: Redemption</title>
+    <sub-title lang="en">The Hurricane Job</sub-title>
+    <desc lang="en">Stuck together during a massive hurricane, Eliot and Parker must stop a band of corrupt cops who have taken over a small hotel, and find what the cops are searching for.</desc>
+  </programme>
+<programme channel="IONMystery.us@SD" start="20261120110000 +0000" stop="20261120120000 +0000">
+    <title lang="en">Criminal Minds</title>
+    <sub-title lang="en">Red Light</sub-title>
+    <desc lang="en">Morgan brings the BAU new information in the case against Mr. Scratch, a serial killer and escaped convict who has been wreaking havoc on the team.</desc>
+  </programme>
+<programme channel="IONMystery.us@SD" start="20261120120000 +0000" stop="20261120130000 +0000">
+    <title lang="en">Criminal Minds</title>
+    <sub-title lang="en">Wheels Up</sub-title>
+    <desc lang="en">Agent Matt Simmons joins the BAU team in a race to take down Mr. Scratch and save one of their own in the process.</desc>
+  </programme>
+<programme channel="IONMystery.us@SD" start="20261120130000 +0000" stop="20261120140000 +0000">
+    <title lang="en">Criminal Minds</title>
+    <sub-title lang="en">To a Better Place</sub-title>
+    <desc lang="en">The BAU investigates three similar crimes in which victims&apos; remains are discovered in old suitcases.</desc>
+  </programme>
+<programme channel="IONMystery.us@SD" start="20261120140000 +0000" stop="20261120150000 +0000">
+    <title lang="en">Criminal Minds</title>
+    <sub-title lang="en">Blue Angel</sub-title>
+    <desc lang="en">When an anger-driven, unknown subject targets successful businessmen in Detroit, the BAU must investigate.</desc>
+  </programme>
+<programme channel="IONMystery.us@SD" start="20261120150000 +0000" stop="20261120160000 +0000">
+    <title lang="en">Criminal Minds</title>
+    <sub-title lang="en">Killer App</sub-title>
+    <desc lang="en">The BAU investigates a workplace shooting committed by a state-of-the-art drone in Silicon Valley.</desc>
+  </programme>
+<programme channel="IONMystery.us@SD" start="20261120160000 +0000" stop="20261120170000 +0000">
+    <title lang="en">Criminal Minds</title>
+    <sub-title lang="en">Lucky Strikes</sub-title>
+    <desc lang="en">Morgan returns to the BAU to help Penelope deal with a case that has affected her emotionally.</desc>
+  </programme>
+<programme channel="IONMystery.us@SD" start="20261120170000 +0000" stop="20261120180000 +0000">
+    <title lang="en">Criminal Minds</title>
+    <sub-title lang="en">The Bunker</sub-title>
+    <desc lang="en">The BAU must find out what several missing women have in common to find them.</desc>
+  </programme>
+<programme channel="IONMystery.us@SD" start="20261120180000 +0000" stop="20261120190000 +0000">
+    <title lang="en">Criminal Minds</title>
+    <sub-title lang="en">Dust and Bones</sub-title>
+    <desc lang="en">The BAU searches for a subject who is targeting prominent members of the community.</desc>
+  </programme>
+<programme channel="IONMystery.us@SD" start="20261120190000 +0000" stop="20261120200000 +0000">
+    <title lang="en">Criminal Minds</title>
+    <sub-title lang="en">Neon Terror</sub-title>
+    <desc lang="en">The BAU is called in to investigate when a criminal sensationalizes his crimes by giving the local media exclusive footage.</desc>
+  </programme>
+<programme channel="IONMystery.us@SD" start="20261120200000 +0000" stop="20261120210000 +0000">
+    <title lang="en">Criminal Minds</title>
+    <sub-title lang="en">False Flag</sub-title>
+    <desc lang="en">The BAU is called to investigate when two members of a conspiracy group in Roswell, N.M., perish in quick succession.</desc>
+  </programme>
+<programme channel="IONMystery.us@SD" start="20261120210000 +0000" stop="20261120220000 +0000">
+    <title lang="en">Criminal Minds</title>
+    <sub-title lang="en">Submerged</sub-title>
+    <desc lang="en">When a series of backyard pool homicides are reported in California, the BAU team searches for an UnSub who has a puzzling past.</desc>
+  </programme>
+<programme channel="IONMystery.us@SD" start="20261120220000 +0000" stop="20261120230000 +0000">
+    <title lang="en">Criminal Minds</title>
+    <sub-title lang="en">Full-Tilt Boogie</sub-title>
+    <desc lang="en">The BAU team&apos;s investigation into the home invasion and attempted homicide of a police chief&apos;s wife uncovers a world of secrets in a small town in Virginia.</desc>
+  </programme>
+<programme channel="IONMystery.us@SD" start="20261120230000 +0000" stop="20261121000000 +0000">
+    <title lang="en">Criminal Minds</title>
+    <sub-title lang="en">Bad moon on the Rise</sub-title>
+    <desc lang="en">The BAU is called to New York when several casualties of a brutal nature are reported in Central Park.</desc>
+  </programme>
+<programme channel="IONMystery.us@SD" start="20261121000000 +0000" stop="20261121010000 +0000">
+    <title lang="en">Criminal Minds</title>
+    <sub-title lang="en">Cure</sub-title>
+    <desc lang="en">The BAU is called to investigate a series of homicides in which cryptic messages are found inside the mouths of the victims.</desc>
+  </programme>
+<programme channel="IONMystery.us@SD" start="20261121010000 +0000" stop="20261121020000 +0000">
+    <title lang="en">Criminal Minds</title>
+    <sub-title lang="en">Miasma</sub-title>
+    <desc lang="en">The BAU is called when the New Orleans Police Department discovers a mass grave inside a vandalized above-ground crypt in a local cemetery.</desc>
+  </programme>
+<programme channel="IONMystery.us@SD" start="20261121020000 +0000" stop="20261121030000 +0000">
+    <title lang="en">Criminal Minds</title>
+    <sub-title lang="en">Annihilator</sub-title>
+    <desc lang="en">The FBI&apos;s assistant director of national security joins the BAU as it investigates the quadruple homicide of a group of roommates in St. Louis.</desc>
+  </programme>
+<programme channel="IONMystery.us@SD" start="20261121030000 +0000" stop="20261121040000 +0000">
+    <title lang="en">Criminal Minds</title>
+    <sub-title lang="en">Last Gasp</sub-title>
+    <desc lang="en">The BAU meets in secret to investigate a subject who appears to be kidnapping and photographing young women.</desc>
+  </programme>
+<programme channel="IONMystery.us@SD" start="20261121040000 +0000" stop="20261121050000 +0000">
+    <title lang="en">Criminal Minds</title>
+    <sub-title lang="en">The Capilanos</sub-title>
+    <desc lang="en">The BAU is called to Oklahoma to investigate a murderous clown who is terrorizing a town.</desc>
+  </programme>
+<programme channel="IONMystery.us@SD" start="20261121050000 +0000" stop="20261121060000 +0000">
+    <title lang="en">Criminal Minds</title>
+    <sub-title lang="en">The Dance of Love</sub-title>
+    <desc lang="en">The BAU travels to Chicago to investigate a case where red roses are left on victims; Rossi gets an unexpected visit from his ex-wife.</desc>
+  </programme>
+<programme channel="IONMystery.us@SD" start="20261121060000 +0000" stop="20261121070000 +0000">
+    <title lang="en">Criminal Minds</title>
+    <sub-title lang="en">Ex Parte</sub-title>
+    <desc lang="en">The BAU takes charge of a hostage situation at a law firm where Matt Simmons&apos; wife works.</desc>
+  </programme>
+<programme channel="IONMystery.us@SD" start="20261121070000 +0000" stop="20261121080000 +0000">
+    <title lang="en">FBI: Most Wanted</title>
+    <sub-title lang="en">Reaper</sub-title>
+    <desc lang="en">Remy and the team investigate the homicides of two Army veterans in a murder spree connected to their time in Afghanistan; Hana receives surprising news about her birth mother.</desc>
+  </programme>
+<programme channel="IONMystery.us@SD" start="20261121080000 +0000" stop="20261121090000 +0000">
+    <title lang="en">MacGyver</title>
+    <sub-title lang="en">Code + Artemis + Nuclear + N3mesis</sub-title>
+    <desc lang="en">Los Angeles&apos; power grid is taken hostage in a ransomware attack resulting in a citywide blackout; the team discovers the ransomware code used was written by Riley years ago.</desc>
+  </programme>
+<programme channel="IONMystery.us@SD" start="20261121090000 +0000" stop="20261121100000 +0000">
+    <title lang="en">MacGyver</title>
+    <sub-title lang="en">Tesla + Bell + Edison + Mac</sub-title>
+    <desc lang="en">When Mac is put into a dream state to help him recall key evidence found in Nikola Tesla&apos;s secret lab that could stop Codex&apos;s deadly plot, he encounters Nikola Tesla, Alexander Graham Bell, Thomas Edison and his mother.</desc>
+  </programme>
+<programme channel="IONMystery.us@SD" start="20261121100000 +0000" stop="20261121110000 +0000">
+    <title lang="en">MacGyver</title>
+    <sub-title lang="en">Psy-Op + Cell + Merchant + Birds</sub-title>
+    <desc lang="en">Mac is placed inside a fake prison cell with a top Codex operative, &quot;The Merchant,&quot; to gain his trust and get intel on their next move.</desc>
+  </programme>
+<programme channel="IONMystery.us@SD" start="20261121110000 +0000" stop="20261121120000 +0000">
+    <title lang="en">FBI: Most Wanted</title>
+    <sub-title lang="en">Shattered</sub-title>
+    <desc lang="en">The team pursues an abusive man who is on the hunt for an ex-girlfriend trying to escape him; Jess and Sarah make plans to take their dream vacation together.</desc>
+  </programme>
+<programme channel="IONMystery.us@SD" start="20261121120000 +0000" stop="20261121130000 +0000">
+    <title lang="en">FBI: Most Wanted</title>
+    <sub-title lang="en">Incel</sub-title>
+    <desc lang="en">The team must track down a murderous member of the incel community targeting those he believes never give him a chance; Barnes, Hana, Ortiz and Kristin deal with their grief in the wake of Jess&apos; death.</desc>
+  </programme>
+<programme channel="IONMystery.us@SD" start="20261121130000 +0000" stop="20261121140000 +0000">
+    <title lang="en">FBI: Most Wanted</title>
+    <sub-title lang="en">Decriminalized</sub-title>
+    <desc lang="en">The team gets called to Vermont after a married couple who grow illegal marijuana massacre their employees; Barnes begins to regret not taking any time off to bond with her new baby.</desc>
+  </programme>
+<programme channel="IONMystery.us@SD" start="20261121140000 +0000" stop="20261121150000 +0000">
+    <title lang="en">FBI: Most Wanted</title>
+    <sub-title lang="en">Covenant</sub-title>
+    <desc lang="en">Charming but formidable Supervisory Special Agent Remy Scott arrives to lead the team as they investigate a series of homicides tied to a forbidden love between a young teen and her older boyfriend.</desc>
+  </programme>
+<programme channel="IONMystery.us@SD" start="20261121150000 +0000" stop="20261121160000 +0000">
+    <title lang="en">FBI: Most Wanted</title>
+    <sub-title lang="en">Reaper</sub-title>
+    <desc lang="en">Remy and the team investigate the homicides of two Army veterans in a murder spree connected to their time in Afghanistan; Hana receives surprising news about her birth mother.</desc>
+  </programme>
+<programme channel="IONMystery.us@SD" start="20261121160000 +0000" stop="20261121170000 +0000">
+    <title lang="en">Bones</title>
+    <sub-title lang="en">The Truth in the Lye</sub-title>
+    <desc lang="en">Booth and Brennan probe what appears to be a case of jealousy and insurance money when a man is found dead at a construction site, but new clues send them in a different direction.</desc>
+  </programme>
+<programme channel="IONMystery.us@SD" start="20261121170000 +0000" stop="20261121180000 +0000">
+    <title lang="en">Bones</title>
+    <sub-title lang="en">The Girl in Suite 2103</sub-title>
+    <desc lang="en">Brennan and Booth investigate an explosion in a Miami hotel where a young woman had burned to death.</desc>
+  </programme>
+<programme channel="IONMystery.us@SD" start="20261121180000 +0000" stop="20261121190000 +0000">
+    <title lang="en">Bones</title>
+    <sub-title lang="en">The Girl With the Curl</sub-title>
+    <desc lang="en">Brennan and Booth investigate a young beauty queen&apos;s remains that are discovered at a water filtration plant; Hodgins asks Angela out on a date, which she accepts.</desc>
+  </programme>
+<programme channel="IONMystery.us@SD" start="20261121190000 +0000" stop="20261121200000 +0000">
+    <title lang="en">Bones</title>
+    <sub-title lang="en">The Woman in the Sand</sub-title>
+    <desc lang="en">The skeletal remains of a federal prosecutor, who disappeared five years earlier, are discovered in the desert outside Las Vegas; an anonymous lead takes Booth and Brennan to the world of gambling and underground ultimate fighting.</desc>
+  </programme>
+<programme channel="IONMystery.us@SD" start="20261121200000 +0000" stop="20261121210000 +0000">
+    <title lang="en">Bones</title>
+    <sub-title lang="en">Aliens in a Spaceship</sub-title>
+    <desc lang="en">Booth and Brennan search for a killer who buries his victims alive and leaves them to die if ransom demands are not met.</desc>
+  </programme>
+<programme channel="IONMystery.us@SD" start="20261121210000 +0000" stop="20261121220000 +0000">
+    <title lang="en">Bones</title>
+    <sub-title lang="en">The Headless Witch in the Woods</sub-title>
+    <desc lang="en">Brennan and Booth investigate when a headless corpse appears in the woods along with a frightening videotape of events on the night of the murder.</desc>
+  </programme>
+<programme channel="IONMystery.us@SD" start="20261121220000 +0000" stop="20261121230000 +0000">
+    <title lang="en">Bones</title>
+    <sub-title lang="en">Judas on a Pole</sub-title>
+    <desc lang="en">Brennan and Booth investigate the case of a mutilated body found on the roof of a federal building; Brennan hears from her long-lost father.</desc>
+  </programme>
+<programme channel="IONMystery.us@SD" start="20261121230000 +0000" stop="20261122000000 +0000">
+    <title lang="en">Bones</title>
+    <sub-title lang="en">The Man in the Cell</sub-title>
+    <desc lang="en">A body Brennan and Booth think is that of Brennan&apos;s incarcerated adversary, serial killer Howard Epps, is burned beyond recognition.</desc>
   </programme>
 <programme channel="IONTV.us@East" start="20261119000000 +0000" stop="20261119010000 +0000">
     <title lang="en">Music Hour</title>
